@@ -1,0 +1,29 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.container{
+      display: flex;
+      background-color: dodgerblue;
+      padding: 20px;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 22px;
+}
+
+.navigation{
+      display: flex;
+      gap: 30px;
+
+}
+.flex{
+      display: flex;
+      gap: 20px;
+}
+
+.auth{
+      display: flex;
+      gap: 20px;
+}
